@@ -1,0 +1,23 @@
+.contenido {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+.princip{
+    padding-top: 10%;
+}
+
+.contenidolistas{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+}
+
+.buscador{
+    height: 100px;
+}
+
+.menu{
+    min-height: 100vh;
+}
